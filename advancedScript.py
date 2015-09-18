@@ -1,5 +1,5 @@
 
-m __future__ import print_function
+from __future__ import print_function
 from sys import version_info
 import requests
 import json
